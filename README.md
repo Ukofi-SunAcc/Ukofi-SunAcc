@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ukofi-SunAcc
+- 👋 Hi, I'm Unathi Kofi
 - 👀 I’m interested in C# and asp.net 
 - 🌱 I’m currently learning software development 
 - 💞️ I’m looking to collaborate on ...
